@@ -1,0 +1,98 @@
+*{margin:0; padding:0; font-family:arial;}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("about-me.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.name{
+    position: fixed;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'Dosis';
+    font-size: 24px;
+    z-index: 2;
+}
+
+section {
+    width: 100%;
+    float: left;
+    height: 1000px;
+}
+
+/* Navigation Bar */
+nav{
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+}
+
+ul {
+    width: fit-content;
+    height: 70px;
+    margin: auto;
+    list-style: none;
+}
+
+ul li{
+    float: left;
+    margin-right: 30px;
+    padding-top: 25px;
+}
+
+ul li a{
+    color: darkslategrey;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    text-decoration: underline;
+}
+
+/* Header */
+
+h1 {
+    text-align: center;
+    padding-top: 90px;
+}
+
+
+.info {
+    width: 700px;
+    height: 600px;
+    margin: auto;
+}
+
+#about-me {
+
+}
+
+#projects {
+    
+}
+
+#contact {
+    
+}
+
+/* dosis-regular - latin */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/dosis-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/dosis-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/dosis-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/dosis-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/dosis-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/dosis-v17-latin-regular.svg#Dosis') format('svg'); /* Legacy iOS */
+  }

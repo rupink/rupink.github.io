@@ -1,3 +1,0 @@
-function prompt(){
-    alert("hey");
-}
