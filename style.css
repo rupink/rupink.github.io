@@ -1,4 +1,4 @@
-*{margin:0; padding:0; font-family:arial;}
+*{margin:0; padding:0; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
 html {
     scroll-behavior: smooth;
@@ -23,7 +23,8 @@ body {
 section {
     width: 100%;
     float: left;
-    height: 1000px;
+    height: 100vh;
+    max-height: 1000px;
 }
 
 /* Navigation Bar */
@@ -31,7 +32,7 @@ nav{
     width: 100%;
     position: fixed;
     z-index: 1;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 ul {
@@ -61,14 +62,33 @@ ul li a:hover{
 
 h1 {
     text-align: center;
+    color: white;
+    font-size: 30px;
     padding-top: 90px;
 }
 
 
 .info {
-    width: 700px;
-    height: 600px;
+    width: auto;
+    max-width: 800px;
     margin: auto;
+    height: fit-content;
+    min-height: 20vh;
+    max-height: 85vh;
+    background: rgba(233, 235, 227, 0.8);
+    margin-top: 20px;
+}
+
+.text{ 
+    font-size: 20px;
+    padding: 30px;
+}
+
+.profile {
+    display: block;
+    margin: auto;
+    height: auto;
+    max-height: 50vh;
 }
 
 #about-me {
@@ -76,7 +96,8 @@ h1 {
 }
 
 #projects {
-    
+    background-color: burlywood;
+    opacity: 0.8;
 }
 
 #contact {
