@@ -1,92 +1,72 @@
 <!DOCTYPE html>
 <html>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160321753-1"></script>
-    <script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160321753-1"></script>
+<script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'UA-160321753-1');
-    </script>
+</script>
 
-    <head>
-        <title>George Saad | Software Developer | Student Engineer</title>
-        <link rel="icon" href="favicon.ico">
-        <link href="style.css" type="text/css" rel="stylesheet"></link>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script src="script.js"></script>
-    </head>
+<head>
+    <title>George Saad | Software Developer | Student Engineer</title>
+    <link rel="icon" href="favicon.ico">
+    <link href="style.css" type="text/css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
 
-    <body>
-        <div class="name">GEORGE SAAD</div>
-        <nav>
-            <ul>
-                <li><a href="#about-me">About Me</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-        <section id="about-me">
-            <h1>About Me</h1>
-            <div class="info shadow-drop-center">
-                <table>
-                    <tr>
-                        <th><img class="profile shadow-drop-center" src="profile.png"></img></th>
-                        <th><p class="text">
-                            *NOTE: website still in progress.* <br>
-                            I'm George Saad, a first year student engineer, studying Engineering Science at the University of Toronto.
-                            I'm interested in specializing in the Machine Intelligence major. I'm seeking a
-                            software engineering internship for Summer 2020.
-                        </p></th>
-                    </tr>
-                </table>
+<!-- <header>
+    <div class="name">GEORGE SAAD</div>
+    <nav>
+        <ul>
+            <li><a href="#about-me">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header> -->
+
+<body>
+    <section id="main">
+        <div class="center">
+            <h1>
+                <span class="hello">Hello!</span> <br />
+                I'm George Saad
+            </h1>
+            <button class="flashing" onclick="location.href='#about-me';">
+                <img src="arrow.png" />
+            </button>
+        </div>
+    </section>
+
+    <section id="about-me">
+        <div class="info-grid">
+            <div class="pic">
+                <img class="pic" src="profile.png" />
             </div>
-        </section>
-
-        <section id="projects">
-            <h1>Projects</h1>
-            <br>
-            <table class="projects">
-                <tr>
-                    <th class="left">
-                        <img class="projpic" src="hootguard.jpg"></img>
-                        HootGuard<br>
-                        HootGuard is an Android app written in Java that
-                        uses the ML Kit in the Google Firebase API and the camera
-                        from an Android device to detect whether a person is drowsy
-                        while driving. I created this app as part of Hack the North 2019.
-                    </th>
-                    <th>
-                        <img class="projpic" src="hootguard.jpg"></img>
-                        HootGuard<br>
-                        HootGuard is an Android app written in Java that
-                        uses the ML Kit in the Google Firebase API and the camera
-                        from an Android device to detect whether a person is drowsy
-                        while driving. I created this app as part of Hack the North 2019.
-                    </th>
-                </tr>
-                <tr>
-                    <th class="left">Proj3</th>
-                    <th>Proj4</th>
-                </tr>
-                <tr>
-                    <th class="left">Proj5</th>
-                    <th>Proj6</th>
-                </tr>
-            </table>
-        </section>
-
-        <section id="contact">
-            <h1>Contact</h1>
-            <div class="info">
-                <p class="text">
-                    <a href="George's Resume.pdf">My Resume</a> <br>
-                    <a href="https://github.com/gkysaad">My Github</a> <br>
-                    <a href="https://www.linkedin.com/in/gkysaad/">My LinkedIn</a>
-                </p>
+            <div class="typewriter">
+                <h2>Software Developer. Student Engineer. <br /></h2>
             </div>
-        </section>
+            <div class="info-text">
+                <p>words</p>
+            </div>
+        </div>
+    </section>
 
-    </body>
+    <section id="contact">
+        <h2>Contact</h2>
+        <div class="info">
+            <p class="text">
+                <a href="George's Resume.pdf">My Resume</a> <br>
+                <a href="https://github.com/gkysaad">My Github</a> <br>
+                <a href="https://www.linkedin.com/in/gkysaad/">My LinkedIn</a>
+            </p>
+        </div>
+    </section>
+
+</body>
+
 </html>
