@@ -94,22 +94,6 @@ h1 {
     }
 }
 
-.info-grid {
-    display: grid;
-    grid-template-columns: repeat(10, 10vw);
-    grid-template-rows: repeat(10, 10vh);
-}
-
-.pic {
-    grid-column-start: 1;
-    grid-column-end: 3;
-    grid-row: 3;
-    animation-name: fade-in;
-    animation-duration: 2s;
-    animation-timing-function: linear;
-    height: 60vh;
-    width: auto;
-}
 
 @keyframes fade-in {
     0% {
@@ -123,53 +107,12 @@ h1 {
     }
 }
 
-.typewriter {
-    width: 45vw;
-    grid-column: 5;
-    grid-row: 3;
-}
-
-.typewriter h2 {
-    overflow: hidden;
-    color: white;
-    /* Ensures the content is not revealed until the animation */
-    border-right: .15em solid orange;
-    /* The typewriter cursor */
-    white-space: nowrap;
-    /* Keeps the content on a single line */
-    margin: 0 auto;
-    /* Gives that scrolling effect as the typing happens */
-    letter-spacing: .15em;
-    /* Adjust as needed */
-    animation: typing 3.5s steps(40, end) 2s, blink-caret .75s step-end infinite;
-}
-
-/* The typing effect */
-
-@keyframes typing {
-    from {
-        width: 0
-    }
-    to {
-        width: 100%
-    }
-}
-
-/* The typewriter cursor effect */
-
-@keyframes blink-caret {
-    from, to {
-        border-color: transparent
-    }
-    50% {
-        border-color: orange;
-    }
-}
-
-.info-text {
-    grid-column: 5;
-    grid-row-start: 4;
-    grid-row-end: 9;
+.resume-head {
+    border-radius: 20;
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
 }
 
 @-webkit-keyframes shadow-drop-center {
