@@ -75,7 +75,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View Project</button></a>
+    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
     <h2>crowd.data</h2>
@@ -90,7 +90,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View Project</button></a>
+    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
     <h2>GPT-3 for Finance</h2>
@@ -104,7 +104,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View Project</button></a>
+    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
     <h2>HyperBot</h2>

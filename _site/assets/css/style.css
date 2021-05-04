@@ -221,13 +221,13 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 /* Clear floats after the columns */
 .row:after { content: ""; display: table; clear: both; }
 
-.thumbnail { max-width: 70px; width: 70%; height: auto; }
+.thumbnail { max-width: 70px; width: 65%; height: auto; }
 
 .row { margin-bottom: 20px; }
 
 ul { margin-left: -20px; margin-bottom: 0px; }
 
-.projbutton { border-radius: 10px; background-color: #267CB9; color: white; height: 50px; border-width: 0px; }
+.projbutton { border-radius: 10px; background-color: #267CB9; color: white; height: 50px; border-width: 0px; width: 80%; padding: 0; }
 
 .projbutton:hover { background-color: #1e6394; }
 
