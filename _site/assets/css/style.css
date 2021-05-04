@@ -221,7 +221,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 /* Clear floats after the columns */
 .row:after { content: ""; display: table; clear: both; }
 
-.thumbnail { max-width: 70px; height: auto; }
+.thumbnail { max-width: 70px; width: 80%; height: auto; }
 
 .row { margin-bottom: 20px; }
 
