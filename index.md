@@ -78,7 +78,7 @@ layout: default
     <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
-    <h2>crowd.data</h2>
+    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>crowd.data</h2></a>
     <h4>January 2021</h4>
     <ul>
       <li>Top 4 out of 30 projects submitted for the Dropbase API prize</li>
@@ -93,7 +93,7 @@ layout: default
     <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
-    <h2>GPT-3 for Finance</h2>
+    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><h2>GPT-3 for Finance</h2></a>
     <h4>July 2020</h4>
     <ul>
       <li>Built a RESTful Python Flask server to create and fill a balance sheet based on natural statements, using the OpenAI GPT-3 NLP API and the Google Sheets API</li>
@@ -107,7 +107,7 @@ layout: default
     <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <div class="columnr">
-    <h2>HyperBot</h2>
+    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><h2>HyperBot</h2></a>
     <h4>January 2020</h4>
     <ul>
       <li>Won 1<sup>st</sup> out of 70 teams by building the best healthcare chatbot (Hypercare API prize)</li>
