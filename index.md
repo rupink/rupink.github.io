@@ -25,8 +25,8 @@ layout: default
     class="thumbnail"/>
   </div>
   <div class="columnr">
-    <h2>Freelance</h2>
-    <h3>Software Engineer</h3>
+    <h2>Content Turbine (Freelance)</h2>
+    <h3>Software Development Freelancer</h3>
     <h4>December 2020 - Present</h4>
     <ul>
       <li>Built <b>Couchbase</b> datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
