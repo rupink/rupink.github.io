@@ -30,7 +30,7 @@ layout: default
     <h4>December 2020 - Present</h4>
     <ul>
       <li>Built <b>Couchbase</b> datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
-      <li>Upgraded JHipster Couchbase integration, including <b>Full Text Search (FTS)</b> and <b>Spring Boot</b>, to the latest release</li>
+      <li>Contributed to the JHipster open-source project (over 18,000 starts) by implementing the latest Spring Data Couchbase SDK integration, including <b>Full Text Search (FTS)</b></li>
       <li>Wrote ASCIIDOC documentation, and created a demo app and an introductory blog post</li>
     </ul>
   </div>
