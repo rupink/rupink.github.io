@@ -18,13 +18,13 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
       {% if site.logo %}
-      <img src="{{site.logo | relative_url}}" alt="Logo" />
+      <img src="{{site.logo | relative_url}}" alt="Logo" style="display: block; border-radius: 50%; width: 70%; margin-left: auto; margin-right: auto; margin-bottom: 5%;" />
       {% endif %}
 
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <h1 style="text-align: center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+      <p style="text-align: justify;">{{ site.description | default: site.github.project_tagline }}</p>
 
       <a target="_blank" rel="noreferrer noopener" href="https://github.com/gkysaad" class="fa fa-github fa-2x icon"></a>      
       <a target="_blank" rel="noreferrer noopener" href="https://www.linkedin.com/in/gkysaad/" class="fa fa-linkedin fa-2x icon"></a>

@@ -12,7 +12,7 @@ layout: default
     class="thumbnail"/></a>
   </div>
   <div class="columnr">
-    <a href="https://www.loblawdigital.co/"><h2>Loblaw Digital</h2></a>
+    <a target="_blank" rel="noreferrer noopener" href="https://www.loblawdigital.co/"><h2>Loblaw Digital</h2></a>
     <h3>Software Development Co-op</h3>
     <h4>May 2021 - Present</h4>
     PC Optimum Team, Backend Engineer
@@ -21,16 +21,16 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <img src="/assets/img/freelance.png"
-    class="thumbnail"/>
+    <a rel="noreferrer noopener" target="_blank" href="https://contentturbine.com/"><img src="/assets/img/freelance.png"
+    class="thumbnail"/></a>
   </div>
   <div class="columnr">
-    <h2>Content Turbine (Freelance)</h2>
-    <h3>Software Development Freelancer</h3>
+    <a target="_blank" rel="noreferrer noopener" href="https://contentturbine.com/"><h2>Content Turbine (Freelance)</h2></a>
+    <h3>Software Engineer</h3>
     <h4>December 2020 - Present</h4>
     <ul>
-      <li>Built <b>Couchbase</b> datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
-      <li>Contributed to the <b>JHipster</b> open-source project (over 18,000 stars) by implementing a major upgrade for the <b>Spring Data Couchbase</b> SDK integration, including <b>Full Text Search (FTS)</b></li>
+      <li>Built NoSQL datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
+      <li>Contributed to the <b>JHipster</b> open-source project (over 18,000 stars) by implementing a major upgrade for a <b>Spring Data</b> SDK integration, including <b>Full Text Search (FTS)</b></li>
       <li>Wrote ASCIIDOC documentation, and created a demo app and an introductory blog post</li>
     </ul>
   </div>
@@ -42,7 +42,7 @@ layout: default
     class="thumbnail"/></a>
   </div>
   <div class="columnr">
-    <a href="https://www.orangetopi.com/"><h2>OrangeTopi (now FoodTrain)</h2></a>
+    <a target="_blank" rel="noreferrer noopener" href="https://www.orangetopi.com/"><h2>OrangeTopi (now FoodTrain)</h2></a>
     <h3>Lead Software Engineer Intern</h3>
     <h4>May 2020 - December 2020</h4>
     <ul>
