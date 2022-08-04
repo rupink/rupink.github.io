@@ -8,14 +8,35 @@ layout: default
 
 <div class="row">
   <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/meta.png" 
+    class="thumbnail"/></a>
+  </div>
+  <div class="columnr">
+    <a target="_blank" rel="noreferrer noopener" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><h2>Meta</h2></a>
+    <h3>Software Engineer Intern</h3>
+    <h4>May 2022 - July 2022</h4>
+    <ul>
+      <li>Designed Thrift service to add tracking to over 260 million external Instagram story and profile links per day</li>
+      <li>Implemented client-side app detection feature and ran controlled experiment on 4% of users to determine impact, which resulted in a 120% increase in ad impressions for Instagram users without linked Facebook accounts</li>
+      <li>Performed major backend code improvement in Hack (PHP) and Python Django for the Instagram Ads endpoints</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="columnl">
     <a rel="noreferrer noopener" target="_blank" href="https://www.loblawdigital.co/"><img src="/assets/img/ld.png" 
     class="thumbnail"/></a>
   </div>
   <div class="columnr">
     <a target="_blank" rel="noreferrer noopener" href="https://www.loblawdigital.co/"><h2>Loblaw Digital</h2></a>
     <h3>Software Development Co-op</h3>
-    <h4>May 2021 - Present</h4>
-    PC Optimum Team, Backend Engineer
+    <h4>May 2021 - August 2021</h4>
+    <ul>
+      <li>Set up latency log tracking in various functions in the Spring Boot Java backend and created GCP metrics and dashboards to extract and display the data, with 200k+ data points collected per hour</li>
+      <li>Led research into content targeting engine and presented to the 40+ member PC Optimum team to enable personalization of marketing tiles for consumers</li>
+      <li>Created various internal self-serve and admin endpoints to reduce development, testing, and debugging time by over 60% for various parts of the PC Optimum product</li>
+    </ul>
   </div>
 </div>
 
@@ -25,9 +46,9 @@ layout: default
     class="thumbnail"/></a>
   </div>
   <div class="columnr">
-    <a target="_blank" rel="noreferrer noopener" href="https://contentturbine.com/"><h2>Content Turbine (Freelance)</h2></a>
-    <h3>Software Engineer</h3>
-    <h4>December 2020 - Present</h4>
+    <a target="_blank" rel="noreferrer noopener" href="https://contentturbine.com/"><h2>Content Turbine</h2></a>
+    <h3>Software Engineer (Freelance)</h3>
+    <h4>December 2020 - September 2021</h4>
     <ul>
       <li>Built NoSQL datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
       <li>Contributed to the <b>JHipster</b> open-source project (over 18,000 stars) by implementing a major upgrade for a <b>Spring Data</b> SDK integration, including <b>Full Text Search (FTS)</b></li>
