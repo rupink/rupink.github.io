@@ -23,7 +23,7 @@
 {"@type":"WebSite","headline":"George Saad","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.png"}},"url":"http://localhost:4000/","description":"I’m a 4th year Machine Intelligence major, Engineering Science student at the University of Toronto. I have extensive experience in software through many projects and internships.","name":"George Saad","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-  <link rel="stylesheet" href="/assets/css/style.css?v=f651a1417122ca0b1ad4f965f645c87664ec9d4e">
+  <link rel="stylesheet" href="/assets/css/style.css?v=66d65f7ccc95722f33c45ec3460022d6fd3a1b68">
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -53,13 +53,50 @@
     <section>
 
       <style>
-  .hide{
-    display:none;  
+  details > summary { 
+    cursor: pointer;
+    list-style: none;
   }
 
   h2 {
     display: inline;
   }
+  
+  .summary-chevron-up,
+	.summary-chevron-down {
+		pointer-events: none;
+    position: absolute;
+		background: #ffffff;
+    right: 2em;
+    z-index: 9;
+
+		svg {
+			display: block;
+		}
+	}
+
+  .innerl {
+    float: left;
+    width: 99%;
+    position: relative;
+  }
+
+  .innerr {
+    float: left;
+    width: 1%;
+    position: relative;
+  }
+
+  .text {
+    padding-top: 5em;
+    display: block;
+  }
+
+  .on-top {
+    z-index: 10;
+  }
+
+  
 </style>
 
 <h1 id="experience">Experience</h1>
@@ -72,15 +109,29 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>Meta</h2>
-      <h3>Software Engineer Intern</h3>
-      <h4>May 2022 - July 2022</h4>
+      <div class="innerl">
+        <h2>Meta</h2>
+        <h3>Software Engineer Intern</h3>
+        <h4>May 2022 - July 2022</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Designed <b>Thrift</b> service to add tracking to over 260 million external Instagram story and profile links per day</li>
-      <li>Implemented client-side app detection feature and ran controlled experiment on 4% of users to determine impact, which resulted in a 120% increase in ad impressions for Instagram users without linked Facebook accounts</li>
-      <li>Performed major backend code improvement in <b>Hack (PHP)</b> and <b>Python Django</b> for the Instagram Ads endpoints</li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Designed <b>Thrift</b> service to add tracking to over 260 million external Instagram story and profile links per day</li>
+        <li>Implemented client-side app detection feature and ran controlled experiment on 4% of users to determine impact, which resulted in a 120% increase in ad impressions for Instagram users without linked Facebook accounts</li>
+        <li>Performed major backend code improvement in <b>Hack (PHP)</b> and <b>Python Django</b> for the Instagram Ads endpoints</li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -90,14 +141,28 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>aUToronto</h2>
-      <h3>Mapping Software Team Member</h3>
-      <h4>September 2021 - April 2022</h4>
+      <div class="innerl">
+        <h2>aUToronto</h2>
+        <h3>Mapping Software Team Member</h3>
+        <h4>September 2021 - April 2022</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>1st Place Winner of 2022 SAE Autodrive Challenge II</li>
-      <li>Maintained testing track map in OpenStreetMap using <b>JOSM</b> and implemented Python methods with <b>PyOSM</b> library</li>
-    </ul>
+     <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>1st Place Winner of 2022 SAE Autodrive Challenge II</li>
+        <li>Maintained testing track map in OpenStreetMap using <b>JOSM</b> and implemented Python methods with <b>PyOSM</b> library</li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -107,13 +172,27 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>University of Toronto</h2>
-      <h3>Teaching Assistant</h3>
-      <h4>September 2021 - April 2022</h4>
+      <div class="innerl">
+        <h2>University of Toronto</h2>
+        <h3>Teaching Assistant</h3>
+        <h4>September 2021 - April 2022</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Teaching Assistant for: Introduction to Programming (ESC180) in <b>Python</b>, Algorithms &amp; Data Structures (ESC190) in <b>C</b></li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Teaching Assistant for: Introduction to Programming (ESC180) in <b>Python</b>, Algorithms &amp; Data Structures (ESC190) in <b>C</b></li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -123,15 +202,29 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>Loblaw Digital</h2>
-      <h3>Software Development Co-op</h3>
-      <h4>May 2021 - August 2021</h4>
+      <div class="innerl">
+        <h2>Loblaw Digital</h2>
+        <h3>Software Development Co-op</h3>
+        <h4>May 2021 - August 2021</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Set up latency log tracking in various functions in the <b>Spring Boot Java</b> backend and created <b>GCP</b> metrics and dashboards to extract and display the data, with 200k+ data points collected per hour</li>
-      <li>Led research into content targeting engine and presented to the 40+ member PC Optimum team to enable personalization of marketing tiles for consumers</li>
-      <li>Created various internal self-serve and admin endpoints to reduce development, testing, and debugging time by over 60% for various parts of the PC Optimum product</li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Set up latency log tracking in various functions in the <b>Spring Boot Java</b> backend and created <b>GCP</b> metrics and dashboards to extract and display the data, with 200k+ data points collected per hour</li>
+        <li>Led research into content targeting engine and presented to the 40+ member PC Optimum team to enable personalization of marketing tiles for consumers</li>
+        <li>Created various internal self-serve and admin endpoints to reduce development, testing, and debugging time by over 60% for various parts of the PC Optimum product</li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -141,15 +234,29 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>Content Turbine</h2>
-      <h3>Software Engineer (Freelance)</h3>
-      <h4>December 2020 - September 2021</h4>
+      <div class="innerl">
+        <h2>Content Turbine</h2>
+        <h3>Software Engineer (Freelance)</h3>
+        <h4>December 2020 - September 2021</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Built NoSQL datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
-      <li>Contributed to the <b>JHipster</b> open-source project (over 18,000 stars) by implementing a major upgrade for a <b>Spring Data</b> SDK integration, including <b>Full Text Search (FTS)</b></li>
-      <li>Wrote ASCIIDOC documentation, and created a demo app and an introductory blog post</li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Built NoSQL datastore and caching modules for the Akka Play! and Vert.x frameworks in <b>Java</b> using <b>Singleton</b> and <b>Dependency Injection (DI)</b> design patterns, and reactive programming, with Guice and JUnit unit testing </li>
+        <li>Contributed to the <b>JHipster</b> open-source project (over 18,000 stars) by implementing a major upgrade for a <b>Spring Data</b> SDK integration, including <b>Full Text Search (FTS)</b></li>
+        <li>Wrote ASCIIDOC documentation, and created a demo app and an introductory blog post</li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -159,15 +266,29 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>OrangeTopi (now FoodTrain)</h2>
-      <h3>Lead Software Engineer Intern</h3>
-      <h4>May 2020 - December 2020</h4>
+      <div class="innerl">
+        <h2>OrangeTopi (now FoodTrain)</h2>
+        <h3>Lead Software Engineer Intern</h3>
+        <h4>May 2020 - December 2020</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Led a team of 8 – 10 developers in developing a <b>React Native</b> mobile app MVP in under 6 months by providing guidance and developing components, including app notifications and authentication with the React Context API</li>
-      <li>Reduced deployment time by over 90% by implementing a <b>CI/CD</b> pipeline for automatic deployment</li>
-      <li>Developed multiple backend functions in <b>Node.js</b> and <b>Express.js</b>, including all payment and email handling</li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Led a team of 8 – 10 developers in developing a <b>React Native</b> mobile app MVP in under 6 months by providing guidance and developing components, including app notifications and authentication with the React Context API</li>
+        <li>Reduced deployment time by over 90% by implementing a <b>CI/CD</b> pipeline for automatic deployment</li>
+        <li>Developed multiple backend functions in <b>Node.js</b> and <b>Express.js</b>, including all payment and email handling</li>
+      </ul>
+    </div>
   </details>
 </div>
 
@@ -177,15 +298,29 @@
   </div>
   <details class="columnr">
     <summary>
-      <h2>Delovery</h2>
-      <h3>Software Engineer Intern</h3>
-      <h4>March 2020 - June 2020</h4>
+      <div class="innerl">
+        <h2>Delovery</h2>
+        <h3>Software Engineer Intern</h3>
+        <h4>March 2020 - June 2020</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
     </summary>
-    <ul>
-      <li>Reduced market research time by over 80% by building a <b>Python</b> web scraper using Beautiful Soup to scrape and graph 900+ data points using <b>Matplotlib</b></li>
-      <li>Designed and developed the cart user flow and other major frontend components in <b>React.js</b> with Material-UI</li>
-      <li>Created an API using <b>Node.js</b> and <b>Express.js</b> to handle all payment processing with PayPal Braintree Payments</li>
-    </ul>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Reduced market research time by over 80% by building a <b>Python</b> web scraper using Beautiful Soup to scrape and graph 900+ data points using <b>Matplotlib</b></li>
+        <li>Designed and developed the cart user flow and other major frontend components in <b>React.js</b> with Material-UI</li>
+        <li>Created an API using <b>Node.js</b> and <b>Express.js</b> to handle all payment processing with PayPal Braintree Payments</li>
+      </ul>
+    </div>
   </details>
 </div>
 
