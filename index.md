@@ -288,12 +288,12 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>DeepDixit</h2></a>
+        <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><h2>DeepDixit</h2></a>
         <h4>April 2022</h4>
       </div>
       <div class="innerr">
@@ -308,9 +308,7 @@ layout: default
       </div>
     </div>
     <ul>
-      <li>Top 4 out of 30 projects submitted for the Dropbase API prize</li>
-      <li>Developed <b>Node.js</b> and <b>Express.js</b> RESTful backend and <b>React.js</b> frontend components with Chakra UI</li>
-      <li>Created 4 data models with <b>CockroachDB (PostgreSQL)</b> using the <b>Sequelize ORM</b>, and Dropbase API integrations</li>
+      <li>Built an image caption guessing game using <b>SIREN</b> + <b>BigGAN</b> based networks to create an image generator with a <b>CLIP-based</b> scoring function to fine tune the model based on text prompts</li>
     </ul>
   </details>
 </div>
@@ -318,12 +316,12 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>malaria</h2></a>
+        <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><h2>micromalaria</h2></a>
         <h4>December 2021</h4>
       </div>
       <div class="innerr">
@@ -338,9 +336,8 @@ layout: default
       </div>
     </div>
     <ul>
-      <li>Top 4 out of 30 projects submitted for the Dropbase API prize</li>
-      <li>Developed <b>Node.js</b> and <b>Express.js</b> RESTful backend and <b>React.js</b> frontend components with Chakra UI</li>
-      <li>Created 4 data models with <b>CockroachDB (PostgreSQL)</b> using the <b>Sequelize ORM</b>, and Dropbase API integrations</li>
+      <li>Fine-tuned a <b>ResNet</b> classifier to identify whether cell images were infected with malaria for an African health lab</li>
+      <li>Achieved a 99% decrease in false positive rate from 19.4% to 0.16% and a 17.5% increase in accuracy from 80% to 94%</li>
     </ul>
   </details>
 </div>
