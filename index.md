@@ -55,6 +55,38 @@ layout: default
 
 <div class="row">
   <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/vector.jpg" 
+    class="thumbnail"/></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <h2>Vector Institute</h2>
+        <h3>Applied Machine Learning Intern</h3>
+        <h4>January 2023 - Present</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Developing AI software projects alongside machine learning researchers, professors, and engineers</li>
+        <li>Supervised by Prof. Elham Dolatabadi</li>
+      </ul>
+    </div>
+  </details>
+</div>
+
+<div class="row">
+  <div class="columnl">
     <a rel="noreferrer noopener" target="_blank" href="https://www.utoronto.ca/"><img src="/assets/img/uoft.png" 
     class="thumbnail"/></a>
   </div>
