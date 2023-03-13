@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Rupin_Web
+email:       rupin_23@hotmail.com
+author:      Rupin Khadwal
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://rupink.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
