@@ -7,6 +7,7 @@ baseurl:     ""
 url:         "https://rupink.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+- PAGE1.html
 
 # Google services
 google_verification:
