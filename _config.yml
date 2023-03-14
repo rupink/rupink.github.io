@@ -1,16 +1,12 @@
 # Site settings
-title:       Rupin's Website
+title:
 email:       rupin_23@hotmail.com
 author:      Rupin Khadwal
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
+description: "A website highlighting key experiences and more!"
+baseurl:     "/its-me/"
 url:         "https://rupink.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
- - PAGE1.html
- - PAGE2.html
 
 # Google services
 google_verification:
