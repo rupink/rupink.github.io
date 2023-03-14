@@ -3,7 +3,7 @@ title:
 email:       rupin_23@hotmail.com
 author:      Rupin Khadwal
 description: "A website highlighting key experiences and more!"
-baseurl:     "/its-me/"
+baseurl:     ""
 url:         "https://rupink.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
