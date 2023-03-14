@@ -1,5 +1,5 @@
 # Site settings
-title:
+title:        Rupin Khadwal
 email:       rupin_23@hotmail.com
 author:      Rupin Khadwal
 description: "A website highlighting key experiences and more!"
@@ -7,7 +7,8 @@ baseurl:     ""
 url:         "https://rupink.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
-- PAGE1.html
+- PAGE2.html
+- PAGE3.html
 
 # Google services
 google_verification:
@@ -21,8 +22,8 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
