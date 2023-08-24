@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <style>
   details > summary { 
     cursor: pointer;
@@ -78,8 +77,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Developing AI software projects alongside machine learning researchers, professors, and engineers</li>
-        <li>Supervised by Prof. Elham Dolatabadi</li>
+        <li>Implemented metrics to evaluate the performance of causal inference estimators, including <b>TARNet</b> and <b>Dragonnet</b>, on synthetic datasets and observational data with no ground truth counterfactuals</li>
+        <li>Led lectures & hands-on sessions on causal estimation & recommender systems for 200+ technical participants, including data scientists and executives from 40+ teams across major sponsors such as RBC, Deloitte, Shopify & Air Canada</li>
       </ul>
     </div>
   </details>
@@ -115,7 +114,6 @@ layout: default
     </div>
   </details>
 </div>
-
 
 <div class="row">
   <div class="columnl">
@@ -318,10 +316,10 @@ layout: default
 
 ---
 
-
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
   </div>
   <details class="columnr">
     <summary>
@@ -346,10 +344,10 @@ layout: default
   </details>
 </div>
 
-
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
   </div>
   <details class="columnr">
     <summary>
@@ -377,7 +375,8 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
   </div>
   <details class="columnr">
     <summary>
@@ -406,7 +405,8 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
   </div>
   <details class="columnr">
     <summary>
@@ -434,7 +434,8 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View&#x00A;Project</button></a>
+    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
   </div>
   <details class="columnr">
     <summary>
