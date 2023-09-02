@@ -62,7 +62,7 @@ layout: default
       <div class="innerl">
         <h2>Vector Institute</h2>
         <h3>Applied Machine Learning Intern</h3>
-        <h4>January 2023 - Present</h4>
+        <h4>January 2023 - September 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
