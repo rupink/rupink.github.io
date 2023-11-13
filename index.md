@@ -8,7 +8,7 @@ layout: default
   }
 
   h2 {
-    display: inline;
+    display: inline; 
   }
   
   .summary-chevron-up,
@@ -26,7 +26,7 @@ layout: default
 
   .innerl {
     float: left;
-    width: 99%;
+    width: 90%;
     position: relative;
   }
 
@@ -54,15 +54,15 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/vector.jpg" 
+    <a rel="noreferrer noopener" target="_blank" href="https://d3m.mie.utoronto.ca/"><img src="/assets/img/uoft.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Vector Institute</h2>
-        <h3>Applied Machine Learning Intern</h3>
-        <h4>January 2023 - September 2023</h4>
+        <h2>U of T Data-Driven Decision Making Lab (D3M)</h2>
+        <h3>Research Assistant</h3>
+        <h4>May 2023 - Present</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -77,8 +77,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Implemented metrics to evaluate the performance of causal inference estimators, including <b>TARNet</b> and <b>Dragonnet</b>, on synthetic datasets and observational data with no ground truth counterfactuals</li>
-        <li>Led lectures & hands-on sessions on causal estimation & recommender systems for 200+ technical participants, including data scientists and executives from 40+ teams across major sponsors such as RBC, Deloitte, Shopify & Air Canada</li>
+        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
       </ul>
     </div>
   </details>
@@ -110,6 +109,38 @@ layout: default
     <div class="text">
       <ul>
         <li>Teaching Assistant for: Introduction to Programming (ESC180) in <b>Python</b>, Algorithms & Data Structures (ESC190) in <b>C</b></li>
+      </ul>
+    </div>
+  </details>
+</div>
+
+<div class="row">
+  <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/vector.jpg" 
+    class="thumbnail"/></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <h2>Vector Institute</h2>
+        <h3>Applied Machine Learning Intern</h3>
+        <h4>January 2023 - September 2023</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Implemented metrics to evaluate the performance of causal inference estimators, including <b>TARNet</b> and <b>Dragonnet</b>, on synthetic datasets and observational data with no ground truth counterfactuals</li>
+        <li>Led lectures & hands-on sessions on causal estimation & recommender systems for 200+ technical participants, including data scientists and executives from 40+ teams across major sponsors such as RBC, Deloitte, Shopify & Air Canada</li>
       </ul>
     </div>
   </details>
