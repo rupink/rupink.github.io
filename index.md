@@ -60,7 +60,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Lacra Pavellllll's Research Group</h2>
+        <h2>Lacra Pavel's Research Group</h2>
         <h3>Research Assistant</h3>
         <h4>August 2023 - Present</h4>
       </div>
@@ -123,7 +123,7 @@ layout: default
     <summary>
       <div class="innerl">
         <h2>Walmart</h2>
-        <h3>AIL Efficiency Engineer</h3>
+        <h3>AI Efficiency Engineer</h3>
         <h4>January 2023 - September 2023</h4>
       </div>
       <div class="innerr">
@@ -253,7 +253,7 @@ Project</button></a>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>crowd.data</h2></a>
+        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
         <h4>September 2023 - May 2024</h4>
       </div>
       <div class="innerr">
@@ -311,7 +311,7 @@ Project</button></a>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><h2>GPT-3 for Finance</h2></a>
+        <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
         <h4>July 2020</h4>
       </div>
       <div class="innerr">
