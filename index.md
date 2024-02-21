@@ -60,7 +60,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Lacra Pavel's Research Group</h2>
+        <h2>Lacra Pavellllll's Research Group</h2>
         <h3>Research Assistant</h3>
         <h4>August 2023 - Present</h4>
       </div>
