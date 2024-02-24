@@ -186,7 +186,8 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>University of Toronto Engineering Consulting Association</h2>
+        <h2><li>University of Toronto</li> 
+        <li>Engineering Consulting Association</li></h2>
         <h3>Team Lead</h3>
         <h4>September 2021 - April 2022</h4>
       </div>
