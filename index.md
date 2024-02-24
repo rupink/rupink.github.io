@@ -180,7 +180,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="http://utesca.ca/"><img src="/assets/img/UTESCA.png" 
+    <a rel="noreferrer noopener" target="_blank" href="http://utesca.ca/"><img src="/assets/img/UTESCA.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
