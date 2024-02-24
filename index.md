@@ -148,7 +148,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/meta.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.mpg.de/en"><img src="/assets/img/MPI.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -180,7 +180,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/autoronto.png" 
+    <a rel="noreferrer noopener" target="_blank" href="http://utesca.ca/"><img src="/assets/img/UTESCA.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -247,13 +247,13 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="/Interm Report" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
+        <a target="_blank" href="/Interm Report" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
         <h4>September 2023 - May 2024</h4>
       </div>
       <div class="innerr">
@@ -276,13 +276,13 @@ Project</button></a>
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="/Optimizing_Trauma_Room.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><h2>Optimizing After-Hours Operation Room Scheduling for Sunnybrook Trauma</h2></a>
+        <a target="_blank" href="/Optimizing_Trauma_Room.pdf" rel="noreferrer noopener"><h2>Optimizing After-Hours Operation Room Scheduling for Sunnybrook Trauma</h2></a>
         <h4>December 2023</h4>
       </div>
       <div class="innerr">
@@ -305,13 +305,13 @@ Project</button></a>
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="github.com/rupink/Price-Scraper" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
+        <a target="_blank" href="github.com/rupink/Price-Scraper" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
         <h4>July 2020</h4>
       </div>
       <div class="innerr">
