@@ -116,7 +116,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/walmart.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/company/walmart"><img src="/assets/img/walmart.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -248,13 +248,13 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="/Interm Report" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="/Interm Report.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="/Interm Report" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
+        <a target="_blank" href="/Interm Report.pdf" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
         <h4>September 2023 - May 2024</h4>
       </div>
       <div class="innerr">
@@ -307,13 +307,13 @@ Project</button></a>
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="github.com/rupink/Price-Scraper" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="https://github.com/rupink/Price-Scraper" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="github.com/rupink/Price-Scraper" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
+        <a target="_blank" href="https://github.com/rupink/Price-Scraper" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
         <h4>July 2020</h4>
       </div>
       <div class="innerr">
@@ -336,13 +336,13 @@ Project</button></a>
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="github.com/rupink/Recidivism-Predictor" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="https://github.com/rupink/Recidivism-Predictor" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="github.com/rupink/Recidivism-Predictor" rel="noreferrer noopener"><h2>Recidivist Predictor Project</h2></a>
+        <a target="_blank" href="https://github.com/rupink/Recidivism-Predictor" rel="noreferrer noopener"><h2>Recidivist Predictor Project</h2></a>
         <h4>January 2022</h4>
       </div>
       <div class="innerr">
