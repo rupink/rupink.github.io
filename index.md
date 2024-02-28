@@ -139,7 +139,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Collaborating with various teams such as Marketing, Finance, Replenishment, etc. to create an efficient promotions process via an <b>AI-based</b> approach using AWS, React, Typescript, and Python</li>
+        <li>Collaborating with various teams such as Marketing, Finance, Replenishment, etc. to create an efficient promotions process via an <b>AI-based</b> approach using <b>AWS, React, Typescript, and Python</b></li>
         <li>Mobilizing the use of AI-reliant tools in the workplace by creating a <b>Neural Network</b> to complete price entries on flyers</li>
       </ul>
     </div>
@@ -204,7 +204,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working with FLAPCanada, created a Binary classification Neural Network to classify if a window is safe for birds or not and deployed it as a web application for users to identify if their windows are safe</li>
+        <li>Working with FLAPCanada, created a <b>Binary classification Neural Network</b> to classify if a window is safe for birds or not and deployed it as a web application for users to identify if their windows are safe</li>
       </ul>
     </div>
   </details>
@@ -304,6 +304,35 @@ Project</button></a>
   </details>
 </div>
 
+<div class="row">
+  <div class="columnl">
+    <a target="_blank" href="/AMSaD.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+Project</button></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <a target="_blank" href="/AMSaD.pdf" rel="noreferrer noopener"><h2>Adaptive Mechanical Stage Diagnostics Tool</h2></a>
+        <h4>September 2022 - December 2022</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <ul>
+   	<li> AMSaD streamlines malaria diagnosis using an adaptive stage and a CNN-based Diagnostics Tool, enhancing testing efficiency for eHealth Africa (eHA)</li>
+    <li> AMSaD targets Nigeria's malaria challenge by optimizing healthcare procedures with advanced technology, aligning with eHA's mission and addressing specific stakeholder needs </li>
+    <li> AMSaD emphasizes integrating the adaptive stage onto existing microscopes and selecting relevant training data for the CNN-based Diagnostics Tool, ensuring effective malaria diagnosis within eHA's healthcare system </li>
+    </ul>
+  </details>
+</div>
 
 <div class="row">
   <div class="columnl">
