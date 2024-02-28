@@ -342,7 +342,7 @@ Project</button></a>
     <summary>
       <div class="innerl">
         <a target="_blank" href="https://github.com/rupink/Price-Scraper" rel="noreferrer noopener"><h2>Price Tracker Web Scraper</h2></a>
-        <h4>July 2020</h4>
+        <h4>July 2022</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
