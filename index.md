@@ -283,8 +283,7 @@ Project</button></a>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="/Optimizing_Trauma_Room.pdf" rel="noreferrer noopener"><h2><li>Optimizing After-Hours</li> 
-        <li>Operation Room Scheduling for Sunnybrook Trauma</li></h2></a>
+        <a target="_blank" href="/Optimizing_Trauma_Room.pdf" rel="noreferrer noopener"><h2>Optimizing Operation Room Scheduling Sunnybrook Trauma</h2></a>
         <h4>December 2023</h4>
       </div>
       <div class="innerr">
