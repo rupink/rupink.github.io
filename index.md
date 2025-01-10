@@ -248,13 +248,13 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="/Interm Report.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="/Final Thesis Report.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="/Interm Report.pdf" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
+        <a target="_blank" href="/Final Thesis Report.pdf" rel="noreferrer noopener"><h2>Discrete-Time Heavy-Anchor Reinforcement Learning in Multiagent Finite Games</h2></a>
         <h4>September 2023 - May 2024</h4>
       </div>
       <div class="innerr">
