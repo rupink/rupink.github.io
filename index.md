@@ -62,7 +62,7 @@ layout: default
       <div class="innerl">
         <h2>Lacra Pavel's Research Group</h2>
         <h3>Research Assistant</h3>
-        <h4>August 2023 - Present</h4>
+        <h4>August 2023 - May 2024</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
